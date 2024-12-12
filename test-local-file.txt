@@ -1,1 +1,2 @@
 This is from a local file
+Line 2 update
